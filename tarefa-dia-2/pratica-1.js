@@ -2,18 +2,29 @@ let MeuNome
 
 MeuNome = "Felipe Teixeira Chaves Pires"
 
-let email
+console.log(MeuNome)
 
-email = "teixeirafelipe848@gmail.com"
+let Email
+
+Email = "teixeirafelipe848@gmail.com"
+
+console.log(Email)
 
 let Profissao
 
 Profissao = "estudante"
 
+console.log(Profissao)
+
 let Idade
 
 Idade = "20"
 
-let LugarDoSonho
+console.log(Idade)
 
-LugarDoSonho = "Hawaii"
+let LugarDosSonhos
+
+LugarDosSonhos = "Hawaii"
+
+console.log(LugarDosSonhos)
+
